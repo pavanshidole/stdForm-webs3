@@ -1,0 +1,9 @@
+:root{
+    --color-pir:#000;
+    --color-text:#fff;
+}
+
+.card{
+    background-color: var(--color-pir);
+    color: var(--color-text);
+}
